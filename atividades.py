@@ -106,3 +106,12 @@ while True:
     print(f"Idade em 2022: {idade} anos")
 
 
+#Declare dois arrays, cada um com um mínimo de cinco elementos, e imprima eles no terminal usando o comando print(). O primeiro array deve conter os produtos de uma loja da sua escolha (loja de comida, materiais de construção, música, etc). O segundo array deve conter os anos de nascimento de familiares e amigos seus. Lembre-se de usar nomes descritivos para nomear cada variável, e de usar o tipo de dado apropriado para cada lista (strings, booleanos, números inteiros, floats).
+
+produtos_loja_musica = ["Guitarra", "Baixo", "Bateria", "Teclado", "Microfone"]
+
+print("Produtos da loja de música: ", produtos_loja_musica)
+
+anos_nascimento = [1980, 1992, 2001, 1965, 1978]
+
+print("Anos de nascimento: ", anos_nascimento)
